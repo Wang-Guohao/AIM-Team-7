@@ -28,9 +28,9 @@ Link to Google Collab Notebook: https://colab.research.google.com/drive/1mzJ-p35
 
 #### ML-Pipeline
 - ML WorkFlow depicting the solution below.![Image](https://github.com/aimsymposium/Project-sample/raw/main/MLpipeline.png)
-- Add a link to your code(Google Colab). Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for further details.
+- Refer to this [sample notebook](https://colab.research.google.com/drive/1mzJ-p35W4LMargBNMVecX7q2fw0hsyB7?usp=sharing) for further details.
 #### Data-Management
-Refer to Data Pre-Processing subtitle in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+Refer to Data Pre-Processing subtitle in the [Google Collab notebook](https://colab.research.google.com/drive/1mzJ-p35W4LMargBNMVecX7q2fw0hsyB7?usp=sharing) for more detail. 
 - Data Pre-processing/ Cleansing/Transformations(Changing column names, Merging different data sources, etc). 
 1) Merge Train and Test. 2) Change column names to lowercase. 
 - Methods for removing and selection of outliers
@@ -38,7 +38,7 @@ Refer to Data Pre-Processing subtitle in the [Google Collab notebook](https://co
 - Descriptive statistics(Pairwise correlation, ANOVA, Univariate Analysis, Odds Ratio).
 #### Study-Design
 ( Below are answer templates that can be used to formulate a paragraph for Study Design based on the goal and exploratory data analysis)
-Refer to Race,FamilY History, Male and Female Primary Site, Histology, Grade and Stage Distribution subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+Refer to Race,FamilY History, Male and Female Primary Site, Histology, Grade and Stage Distribution subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1mzJ-p35W4LMargBNMVecX7q2fw0hsyB7?usp=sharing) for more detail. 
 -   Identify clinical goal (Prediction of cancer patient survival.)
 -   Define prediction outcome (Predict cancer patient survival for quality review and better clinical decision making.)
 -   Participant inclusion/exclusion criteria 
@@ -48,7 +48,7 @@ Out of 785 males,the majority of the tumors were from the prostate gland as the 
 Out of 1215 females, the majority of the tumors were from the breast upper outer quadrant primary site(300 [24.69%]), infiltrating duct carcinoma(535 [44%]), grade II: moderately differentiated, intermediate differentiated (522 [43%]), and stage 1 (737 [60%]).
 
 #### Validation-Strategies 
-Refer to Train and Test Data Pre-processing, Training/Validation Split subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+Refer to Train and Test Data Pre-processing, Training/Validation Split subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1mzJ-p35W4LMargBNMVecX7q2fw0hsyB7?usp=sharing) for more detail. 
 
 -Train and Test Data Pre-processing
 1) Encoding Categorical COlums. 2) Fill NaNs. 3) Drop columns.
@@ -57,12 +57,12 @@ Refer to Train and Test Data Pre-processing, Training/Validation Split subtitles
 80 % - 20 %  Split was used.
 
 #### Model-Training_and_Tuning
-Refer to Logistic Regression and XGBoost subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+Refer to Logistic Regression and XGBoost subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1mzJ-p35W4LMargBNMVecX7q2fw0hsyB7?usp=sharing) for more detail. 
 Hyperparameters
 Tuning
 
 #### Results_Model-Performance_and_Interpretability
-Refer to Results,.... subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+Refer to Results,.... subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1mzJ-p35W4LMargBNMVecX7q2fw0hsyB7?usp=sharing) for more detail. 
 
 -Include Summary of Results/Discussion and Picture of Results here.
 
