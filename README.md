@@ -2,14 +2,6 @@
 ## Roswell Park's DBBR Cancer Patient Survival Prediction :A model that uses a dataset of various cancer cases to predict patient survival.
 Team Members: Guohao Wang , Xin Jiang , Lunshu Sun and Jue Gao .
 Link to AIM Datathon: https://www.kaggle.com/c/aimdatathon2020/leaderboard <br>
-Link to Google Collab Notebook: https://colab.research.google.com/drive/113479XdKjjp9ZaSnEF1bhWVFetOK1Ecy?authuser=3
-
-
-## Project Title: Decision Support System in Oncology
-
-Team Members: FirstName , FirstName , and FirstName .
-
-Link to AIM Datathon: https://www.kaggle.com/c/aimdatathon2020/leaderboard <br>
 Link to Google Collab Notebook: https://colab.research.google.com/drive/1mzJ-p35W4LMargBNMVecX7q2fw0hsyB7?usp=sharing
 ### Contents
 
