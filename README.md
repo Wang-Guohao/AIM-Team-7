@@ -41,16 +41,19 @@ Refer to Race, Age, Cancer Type Primary Site in the [Google Collab notebook](htt
 -   Participant inclusion/exclusion criteria 
 
 ![Image](https://github.com/Wang-Guohao/AIM-Team-7/blob/main/Race_Bar_Chart.png)
+
 This race bar plot shows that:
 (2000 patients with various cancer types were included. A diverse patient population race was involved including whites (1860 [93%]),  African Americans (88 [4.5%]), American Indians (12 [0.6%]), Asians (7 [0.35%]),  Alaskan Natives (12 [1%]), Native Hawaiians (2 [0.15%]), and from other races (7 [0.45%]).
 
 ![Image](https://github.com/Wang-Guohao/AIM-Team-7/blob/main/Age_Distribution.png)
+
 This plot is the age distribution of the patients.
 The median age (interquartile range) was 62 (54-70) years old.  
 
 36% of the patients had a paternal history with cancer and the greatest proportion was 10% prostate cancer. 39% of the patients had a maternal history with cancer and the greatest proportion was 11% breast cancer. 
 
 ![Image](https://github.com/Wang-Guohao/AIM-Team-7/blob/main/Cancer_Type_Piechart.png)
+
 Here is the top 15 Cancer Type pie chart.
 Out of 785 males,the majority of the tumors were from the prostate gland as the primary site (371[47.2%]),adenocarcinoma(496 [63%]), grade III: Poorly differentiated , dedifferentiated (369 [47%]), and stage 1 (478[60%]) . 
 Out of 1215 females, the majority of the tumors were from the breast upper outer quadrant primary site(300 [24.69%]), infiltrating duct carcinoma(535 [44%]), grade II: moderately differentiated, intermediate differentiated (522 [43%]), and stage 1 (737 [60%]).
